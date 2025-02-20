@@ -1,4 +1,4 @@
- Hastane Yönetim Sistemi
+🏥  Hastane Yönetim Sistemi 🏥
 
 Bu proje, bir hastane yönetim sistemidir. Hasta giriş, doktor giriş, randevu alma ve branş yönetimi gibi temel işlevleri içermektedir. Proje **C#**, **Windows Forms (WinForms)** ve **Microsoft SQL Server** kullanılarak geliştirilmiş olup, **ADO.NET** ile veritabanı işlemleri gerçekleştirilmiştir.
 
