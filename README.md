@@ -54,7 +54,10 @@ Projede ADO.NET kullanılarak aşağıdaki CRUD işlemleri yapılmaktadır:
 
 Ekran Görüntüleri
 - Hasta Giriş Ekranı
+  ![Image](https://github.com/user-attachments/assets/eb09000c-523a-4db0-8910-1495dcfaa73c)
+  
 - Doktor Paneli
+  
 - Randevu Yönetim Paneli
 - Branş Yönetim Paneli
 ---
