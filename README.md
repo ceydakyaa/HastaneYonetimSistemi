@@ -62,10 +62,14 @@ Hasta Giriş Ekranı
 
 ![Image](https://github.com/user-attachments/assets/a7b99555-7b21-4279-ab91-8b949599b75b)
   
-- Sekreter Paneli
+Sekreter Paneli
+
+![Image](https://github.com/user-attachments/assets/79c6e1c4-28df-4150-9069-878c0d4f0333)
+
+ Branş Yönetim Paneli
 
 
-- Branş Yönetim Paneli
+
 ---
 Bu proje, temel hastane yönetim işlevlerini kapsayan bir **Masaüstü Uygulaması** olup, küçük ve orta ölçekli hastaneler için bir yönetim çözümü sunmayı amaçlamaktadır.
 
