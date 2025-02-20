@@ -62,7 +62,9 @@ Hasta Giriş Ekranı
 
 ![Image](https://github.com/user-attachments/assets/a7b99555-7b21-4279-ab91-8b949599b75b)
   
-- Randevu Yönetim Paneli
+- Sekreter Paneli
+
+
 - Branş Yönetim Paneli
 ---
 Bu proje, temel hastane yönetim işlevlerini kapsayan bir **Masaüstü Uygulaması** olup, küçük ve orta ölçekli hastaneler için bir yönetim çözümü sunmayı amaçlamaktadır.
