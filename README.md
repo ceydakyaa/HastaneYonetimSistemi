@@ -68,6 +68,7 @@ Sekreter Paneli
 
  Branş Yönetim Paneli
 
+![Image](https://github.com/user-attachments/assets/12235edc-3111-4f81-b309-96b840eb8ab2)
 
 
 ---
