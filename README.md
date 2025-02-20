@@ -53,10 +53,14 @@ Projede ADO.NET kullanılarak aşağıdaki CRUD işlemleri yapılmaktadır:
 3. Giriş ekranından hasta, doktor veya sekreter olarak giriş yapabilirsiniz.
 
 Ekran Görüntüleri
+
 - Hasta Giriş Ekranı
+- 
   ![Image](https://github.com/user-attachments/assets/eb09000c-523a-4db0-8910-1495dcfaa73c)
   
 - Doktor Paneli
+  ![image](https://github.com/user-attachments/assets/ca880369-a7b3-43cc-a7e2-b5eddad1478d)
+
   
 - Randevu Yönetim Paneli
 - Branş Yönetim Paneli
