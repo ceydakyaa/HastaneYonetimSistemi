@@ -27,30 +27,17 @@ Bu proje, bir hastane yönetim sistemidir. Hasta giriş, doktor giriş, randevu 
 
 5. Veritabanı İşlemleri (CRUD)
 Projede ADO.NET kullanılarak aşağıdaki CRUD işlemleri yapılmaktadır:
-- **Create:** Yeni hasta, doktor, randevu ve branş ekleme.
-- **Read:** Hastalar, doktorlar, randevular ve branşların listelenmesi.
-- **Update:** Hastalar, doktorlar ve randevuların güncellenmesi.
-- **Delete:** İlgili kayıtların silinmesi.
+- Create:** Yeni hasta, doktor, randevu ve branş ekleme.
+- Read:** Hastalar, doktorlar, randevular ve branşların listelenmesi.
+- Update:** Hastalar, doktorlar ve randevuların güncellenmesi.
+- Delete:** İlgili kayıtların silinmesi.
 
  Kullanılan Teknolojiler
-- **C# (.NET Framework)**
-- **Windows Forms (WinForms)**
-- **Microsoft SQL Server**
-- **ADO.NET**
-- **SQL (T-SQL)**
-
- Kurulum ve Kullanım
-
-1. Veritabanı Kurulumu
-1. Microsoft SQL Server'ı yükleyin ve bir veritabanı oluşturun.
-2. `Tbl_Hastalar`, `Tbl_Doktorlar`, `Tbl_Branslar`, `Tbl_Randevular` gibi tabloları oluşturun.
-3. **Bağlantı dizesini (Connection String) güncelleyin:**
-   - `BaglantiSinifi.cs` içinde yer alan `sqlbaglantisi()` metodundaki **SQL Server bağlantı dizesini** kendi veritabanınıza uygun şekilde düzenleyin.
-
-2. Projeyi Çalıştırma
-1. **Visual Studio** ile projeyi açın.
-2. `Proje_Hastane.sln` dosyasını çalıştırın.
-3. Giriş ekranından hasta, doktor veya sekreter olarak giriş yapabilirsiniz.
+- C# (.NET Framework)
+- Windows Forms (WinForms)
+- Microsoft SQL Server
+- ADO.NET
+- SQL (T-SQL)
 
 Ekran Görüntüleri
 
@@ -71,6 +58,5 @@ Sekreter Paneli
 ![Image](https://github.com/user-attachments/assets/12235edc-3111-4f81-b309-96b840eb8ab2)
 
 
----
-Bu proje, temel hastane yönetim işlevlerini kapsayan bir **Masaüstü Uygulaması** olup, küçük ve orta ölçekli hastaneler için bir yönetim çözümü sunmayı amaçlamaktadır.
+
 
